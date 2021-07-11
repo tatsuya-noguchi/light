@@ -1,108 +1,55 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: 知財研究（オフバランスシート資産）
+date: "2021-07-11T22:40:32.169Z"
+description: ブログを始める.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+「無形資産」と聞いて、最初に思い浮かぶものは、特許ではないけれど、特許は、形式的に無形資産として、認識ができるという利点がある。
+　
+先日の読書の続きで、２００件の特許ポートフォリオに対して、１億ドルの融資をした会社が、コロナ関連企業を、特許侵害で訴えた事例がでていた。「コロナは、人類の問題なのだから、特許を使うなんて、けしからん！」という方もいるだろうけれど、他の利害や視点もある。
+　
+これらの２００件、１００億円の特許の価値について考えるとき、１件あたり、５０００万円の価値というわけではなく、事業領域を守るポートフォリオとして、約１００億円の価値があると考えるのが、素直だと思う。特許権の保護期間は、２０年だから、年間に５億円程度の価格上乗せ分を見込むことができる市場があれば、１００億円という金額は、高くない。
+　
+例えば、完全競争市場の場合、独占市場の２５％以下に価格が低下する例をよく見る。４０万円の商品は、１０万円になる。この事業領域への参入を防ぐために、特許ポートフォリオが作られるとすると、うまく論理が繋がる。
 
-## On deer horse aboard tritely yikes and much
+ところで、内部で開発された無形資産は、オフバランスシートといって、会社の貸借対照表（バランスシート）には掲載されないらしい。例えば、Appleのロゴは、バランスシートにはでていない。外部から買ったもの、償却可能なもののみ、貸借対照表に記載される。
+　
+そういえば、２０年ほど前だったか、特許法律事務所が、会計事務所を取り込む形態に変化しようという話があった。個人的には、その方がいいだろうと思ったけれど、利害や視点は、いろいろとあるから、今のところ、そんな風にはなっていない。きっと、遅くとも、１００年もたてば、別の形態に変わっているだろう。
+　
+もっとも、会計士ではなくても、簡単な計算ができる人は、たくさんいる。わりと使える管理知財評価を考えたら、知りたいというニーズは、あるのかもしれない。
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+## 知的財産研究
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
 
-### Overlaid the jeepers uselessly much excluding
+- あいうえお
+- かきくけこ
+  - さしすせそ
+- たちつてと
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+これは **テストです**。
+_ブックマーク_
+[Google](http://google.com) 
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+### 無体財産権
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+> こんなの
+> あんなの
+> そんなの
 
-### According a funnily until pre-set or arrogant well cheerful
+なでもありません。
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+1.  this
+2.  hey
+3.  some
+4.  fruit
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+知的財産の種類
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+> 特許権
+> 意匠権
+> 商標権
+> 著作権
 
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
